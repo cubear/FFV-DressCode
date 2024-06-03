@@ -16,26 +16,46 @@ PC Address: 1ffc00
 ### The patch expects the sprite data to be organized like so:
 (PC addresses)
 390000 = Knight
+
 392800 = Monk
+
 395000 = Thief
+
 397800 = Dragoon
+
 39A000 = Ninja
+
 39C800 = Samurai
 
+
 3A0000 = Berserker
+
 3A2800 = Ranger
+
 3A5000 = Mystic
+
 3A7800 = White Mage
+
 3AA000 = Black Mage
+
 3AC800 = Time Mage
 
+
 3B0000 = Summoner
+
 3B2800 = Blue Mage
+
 3B5000 = Red Mage
+
 3B7800 = Beastmaster
+
 3BA000 = Chemist
+
 3BC800 = Geomancer
 
+
 3C0000 = Bard
+
 3C2800 = Dancer
+
 3C5000 = Mimic
