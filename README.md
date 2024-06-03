@@ -4,7 +4,9 @@
 This is to be applied to any version of the SNES game, expanded to 32Mbit (4 MB) via whatever means you like.
 For Windows users, I might recommend Lunar Expand.
 
-The .asm will compile with asar, but you'll need to inject the sprite data yourself (or just use the supplied .ips file)
+The .asm will compile with asar, but you'll need to inject the sprite data yourself 
+
+(or just use the supplied .ips file which has the code and graphical data contained within.)
 
 ## For those looking to edit the sprites: 
 The sprite sheets are in a format recognised by SNESTilesKitten. 
