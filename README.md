@@ -15,6 +15,7 @@ PC Address: 1ffc00
 
 ### The patch expects the sprite data to be organized like so:
 (PC addresses)
+
 390000 = Knight
 
 392800 = Monk
